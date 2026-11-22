@@ -1,7 +1,8 @@
-# Hi, I’m Tawhid
+# Tasbiul Huda Tawhid
 
-I’m a Software Engineering master’s student in Sydney. I’m looking for part-time work in IT support, web development or database operations. I like troubleshooting, testing how things work, and writing clear setup notes.
+I’m a Master of Information Technology and Systems student specialising in Software Engineering in Sydney. I’m looking for part-time roles in IT support, junior web development or database operations.
 
-## Selected project
+## Selected projects
 
-[EduTech LMS](https://github.com/tasbiul-huda-tawhid/ICT602-EduTech-LMS) is a Java console prototype our team built for course publishing and enrolment. I worked on MVC integration and verification, and designed 15 of the team’s 34 test cases. The recorded team run passed all 34 cases across 236 checks.
+- **[EduTech LMS](https://github.com/tasbiul-huda-tawhid/ICT602-EduTech-LMS):** Java team prototype for role-based login, course publishing and enrolment. I helped integrate the MVC components and designed 15 of 34 test cases. The [recorded team run](https://github.com/tasbiul-huda-tawhid/ICT602-EduTech-LMS/blob/main/partB-tests/evidence_2026-11-18_1744/SUMMARY.txt) passed all 34 cases across 236 checks.
+- **[ANPR](https://github.com/tasbiul-huda-tawhid/ANPR):** Python learning project that uses OpenCV and Tesseract. The README explains how to set it up and how to verify the OCR path with synthetic input. Real-world plate recognition has not been benchmarked.
